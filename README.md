@@ -52,7 +52,7 @@ The dataset comprises anonymized telemetry data and malware infection labels col
 **Yuvraj Gosain**  
 BS in Data Science and Applications, IIT Madras  
 GitHub: [github.com/YuvrajGosain](https://github.com/yuviiitm26)  
-LinkedIn: [[linkedin.com/in/YuvrajGosain](https://linkedin.com/in/YuvrajGosain](https://www.linkedin.com/in/yuvraj-gosain-b542a3250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+LinkedIn: [linkedin.com/in/YuvrajGosain](https://www.linkedin.com/in/yuvraj-gosain-b542a3250/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
